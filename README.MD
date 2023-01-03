@@ -9,7 +9,7 @@
 ## Overview
 
 ### The challenge
-Expenses Tracker Using React
+a fully responsive and mobile-ready Expenses Tracker Using React
 
 ### Screenshot
 
